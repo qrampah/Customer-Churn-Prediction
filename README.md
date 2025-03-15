@@ -29,4 +29,4 @@ The dataset used in this project is the [Telco Customer Churn dataset](https://w
 
 ## References
 - Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-- ChatGPT was used for improving the structure and clarity of the report.
+
